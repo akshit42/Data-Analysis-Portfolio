@@ -6,4 +6,4 @@ The raw dataset for FIFA21_Project can be found here - https://www.kaggle.com/da
 
 The cleaned version - FIFA21_Clean.csv has been generated after being worked on in a Jupyter Notebook using Python Pandas library.
 
-The Jupyter Notebook named FIFA21_Project.ipynb has comments denoted by # which give a brief description of the line(s) of code they are next to.
+The Jupyter Notebook named FIFA21_Project.ipynb has comments denoted by # which give a brief description of the line(s) of code they are next to. The tasks can be found on the website mentioned above from where the raw dataset has been sourced.
