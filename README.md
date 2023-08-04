@@ -8,4 +8,9 @@ This repository contains a portfolio of data analysis projects taken up for the 
 - The tasks can be found on the website mentioned above from where the raw dataset has been sourced.    
 - Kindly open ipnyb files in Jupyter Notebook for a better experience.  
 
+## SQL
+- The dataset clubdata.sql file can be found here - https://pgexercises.com/gettingstarted.html
+- SQL queries were written and run in PostgreSQL.
+- The SQL files generated have comments denoted by -- which give a brief description of the query they are next to.
+- The tasks can be found on the website mentioned above from where the raw dataset has been sourced.
 
