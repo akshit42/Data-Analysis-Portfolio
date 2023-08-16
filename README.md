@@ -14,6 +14,7 @@ This repository contains a portfolio of data analysis projects taken up for the 
     - Basic Queries.sql
     - Joins and Subqueries.sql
     - Modifying Data.sql
+    - Aggregation.sql
 - SQL queries were written and run in PostgreSQL.
 - The SQL files generated have comments denoted by -- which give a brief description of the query they are next to.
 - The tasks can be found on the website mentioned above from where the raw dataset has been sourced.
